@@ -1,4 +1,3 @@
-Here's a detailed and well-structured section on operators for the README.md file:
 
 ---
 
